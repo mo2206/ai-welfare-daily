@@ -127,3 +127,5 @@
 {"ts": "2026-11-08T05:54:13+08:00", "board": 58, "candidates": 0, "added": 0, "updated": 0, "kept": 58, "dropped": 0, "pruned": 0, "by_kind": {"free": 25, "gift": 31, "lottery": 2}, "reject_top3": {}}
 {"ts": "2026-11-08T11:47:50+08:00", "board": 58, "candidates": 119, "added": 0, "updated": 1, "kept": 37, "dropped": 0, "pruned": 0, "by_kind": {"lottery": 3, "free": 24, "gift": 31}, "reject_top3": {"无额度无免费": 20, "免费门槛": 13, "额度不足$10": 6}}
 {"ts": "2026-11-08T12:43:55+08:00", "board": 58, "candidates": 118, "added": 0, "updated": 1, "kept": 38, "dropped": 0, "pruned": 0, "by_kind": {"gift": 31, "lottery": 3, "free": 24}, "reject_top3": {"无额度无免费": 20, "免费门槛": 13, "额度不足$10": 6}}
+{"ts": "2026-11-22T03:13:11+08:00", "board": 60, "candidates": 0, "added": 0, "updated": 0, "kept": 60, "dropped": 4, "pruned": 0, "by_kind": {"free": 31, "gift": 29}, "reject_top3": {}}
+{"ts": "2026-11-22T03:14:57+08:00", "board": 57, "candidates": 97, "added": 0, "updated": 2, "kept": 52, "dropped": 3, "pruned": 3, "by_kind": {"gift": 27, "free": 30}, "reject_top3": {"正文缓存缺失": 54, "无额度无免费": 8, "免费门槛": 5}}
