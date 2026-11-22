@@ -130,3 +130,5 @@
 {"ts": "2026-11-22T03:13:11+08:00", "board": 60, "candidates": 0, "added": 0, "updated": 0, "kept": 60, "dropped": 4, "pruned": 0, "by_kind": {"free": 31, "gift": 29}, "reject_top3": {}}
 {"ts": "2026-11-22T03:14:57+08:00", "board": 57, "candidates": 97, "added": 0, "updated": 2, "kept": 52, "dropped": 3, "pruned": 3, "by_kind": {"gift": 27, "free": 30}, "reject_top3": {"正文缓存缺失": 54, "无额度无免费": 8, "免费门槛": 5}}
 {"ts": "2026-11-22T14:46:16+08:00", "board": 58, "candidates": 93, "added": 1, "updated": 2, "kept": 52, "dropped": 0, "pruned": 0, "by_kind": {"gift": 29, "free": 29}, "reject_top3": {"正文缓存缺失": 49, "免费门槛": 9, "无额度无免费": 4}}
+{"ts": "2026-11-23T03:36:34+08:00", "board": 53, "candidates": 0, "added": 0, "updated": 0, "kept": 53, "dropped": 5, "pruned": 0, "by_kind": {"gift": 26, "free": 27}, "reject_top3": {}}
+{"ts": "2026-11-23T03:38:27+08:00", "board": 53, "candidates": 75, "added": 1, "updated": 1, "kept": 47, "dropped": 1, "pruned": 1, "by_kind": {"gift": 25, "free": 28}, "reject_top3": {"正文缓存缺失": 27, "无额度无免费": 10, "合集帖": 3}}
